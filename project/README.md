@@ -1,7 +1,6 @@
-# Title
+# Tweet and chill
 
 # Abstract
-A 150 word description of the project idea, goals, dataset used. What story you would like to tell and why? What's the motivation behind your project?
 Wouldn't it be great to be able to recommend movies for every single average user of twitter, this is the main goal of the project. We want to be able to ask you for your twitter handle, and if you've sent a few tweets, we should be able to recommend movies for you to watch ! Even more than just recommend movies, we should be able to tell the grand story of movie success, is it possible to predict success for a movie simply from the public's opinion before its premiere ? What about the preference by country ? Is there any movie genre tied to some parts of the world ? Are french people really that romantic ?
 We want to be able to tell all of these stories, and to actually do something good, recommend movies related to what you like generally and not forcibly linked to which movies you previously watched.
 
@@ -21,8 +20,6 @@ Since there is not yet any description of the tweets database, what we would exp
 As for the Movies dataset, all that we needed was the rating, name an date of each movie, but we have way more than that, we have the whole cast, ratings, number of ratings, genre, budget, language, etc. Having all of that means that we could do way more than just recommending movies, this is what's gotten so excited about it.
 
 # A list of internal milestones up until project milestone 2
-Add here a sketch of your planning for the next project milestone.
-
 We want to create our own subset of the datasets. That is to say:
 - choosing only english tweets
 - select tweets talking about movies
@@ -33,7 +30,6 @@ With these subsets we want to create a training set to have a clearer plan movin
 We then need to build a recommender system around the movies, and perform a sentiment analysis upon the tweets. When done we can checkout how people from twitter would rate the movies and if it correlates with the ratings of the movies dataset. When we take into account the similarities between twitter users' tweets, we should be able to recommend movies for users not even talking about movies, and THAT'S fun.
 
 # Questions for TAa
-Add here some questions you have for us, in general or project-specific.
 - What will be the clear formatting of the twitter dataset ?
 - What is the full date range of the twitter dataset ?
 - What proportion of the tweets will contain geolocalisation of the tweets ?
