@@ -1,4 +1,4 @@
-# Tweet and chill
+# Tweet and Chill
 
 # Abstract
 Wouldn't it be great to be able to recommend movies for every single average user of twitter, this is the main goal of the project. We want to be able to ask you for your twitter handle, and if you've sent a few tweets, we should be able to recommend movies for you to watch ! Even more than just recommend movies, we should be able to tell the grand story of movie success, is it possible to predict success for a movie simply from the public's opinion before its premiere ? What about the preference by country ? Is there any movie genre tied to some parts of the world ? Are french people really that romantic ?
