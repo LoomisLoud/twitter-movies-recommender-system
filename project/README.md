@@ -1,3 +1,6 @@
+# DISCLAIMER: TO SEE THE PLOTS EASILY, YOU SHOULD USE THIS [LINK](http://nbviewer.jupyter.org/github/LoomisLoud/ADA/blob/master/project/Twitter%20movie%20recommender%20system.ipynb) INSTEAD OF GITHUB'S VIEWER.
+
+-------------------
 # Recommending movies from tweets
 
 ## Abstract
