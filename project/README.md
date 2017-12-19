@@ -22,4 +22,4 @@ Afterwards, we took our focus to the tweets' contents, performing a topic detect
 Here is how we recommend movies to twitter users. We find the most similar users from our target by cosine distance, and then compute the recommendations by averaging out the ratings of the closest few. To learn more about the technique, read the notebook and the [Medium](https://medium.com/@Loomisloud/recommending-movies-using-twitter-as-a-proxy-6e0cbf50b153) piece !
 
 ## Work ethic
-We all worked together on each part, equally, Matthias working a bit more on algorithms, Pierre on data analysis and Romain on spark/data cleaning.
+We all worked together on each part, equally, Matthias working a bit more on algorithms, Pierre on data analysis and Romain on spark/data cleaning. We will all be working equally on the final presentation, which Romain will most probably give out.
